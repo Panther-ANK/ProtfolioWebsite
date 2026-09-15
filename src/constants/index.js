@@ -120,7 +120,7 @@ const experiences = [
     company_name: "VaaniArc: Chat Application",
     icon: starbucks,
     iconBg: "#050816",
-    date: "March 2020 - April 2021",
+    date: "Jun 2025 - Jul 2026",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with my teams including designers, and other developers to create high-quality products.",
@@ -133,7 +133,7 @@ const experiences = [
     company_name: "Globe Pictures",
     icon: meta,
     iconBg: "#050816",
-    date: "Jan 2021 - Feb 2022",
+    date: "Jul 2025 - Dec 2025",
     points: [
       "Performed as a lead actor in a Project",
       "Directed a smallsequence in the film.",
@@ -146,7 +146,7 @@ const experiences = [
     company_name: "Endless Creation",
     icon: tesla,
     iconBg: "#050816",
-    date: "Jan 2023 - Present",
+    date: "Jan 2025 - Present",
     points: [
       "Creating projects and maintaning them till the completion.",
       "Collaborating with director, prodducers, DOPs to create high-quality products.",
