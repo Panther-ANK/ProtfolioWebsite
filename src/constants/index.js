@@ -119,7 +119,7 @@ const experiences = [
     title: "Frontend Developer",
     company_name: "VaaniArc: Chat Application",
     icon: starbucks,
-    iconBg: "#383E56",
+    iconBg: "#050816",
     date: "March 2020 - April 2021",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
@@ -132,7 +132,7 @@ const experiences = [
     title: "Actor | Technical Supervisor",
     company_name: "Globe Productions",
     icon: tesla,
-    iconBg: "#E6DEDD",
+    iconBg: "#050816",
     date: "Jan 2021 - Feb 2022",
     points: [
       "Performed as a lead actor in a Project",
@@ -145,7 +145,7 @@ const experiences = [
     title: "Co-Founder",
     company_name: "Endless Creation",
     icon: meta,
-    iconBg: "#E6DEDD",
+    iconBg: "#050816",
     date: "Jan 2023 - Present",
     points: [
       "Creating projects and maintaning them till the completion.",
