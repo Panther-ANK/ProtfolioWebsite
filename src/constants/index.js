@@ -130,8 +130,8 @@ const experiences = [
   },
   {
     title: "Actor | Technical Supervisor",
-    company_name: "Globe Productions",
-    icon: tesla,
+    company_name: "Globe Pictures",
+    icon: meta,
     iconBg: "#050816",
     date: "Jan 2021 - Feb 2022",
     points: [
@@ -144,7 +144,7 @@ const experiences = [
   {
     title: "Co-Founder",
     company_name: "Endless Creation",
-    icon: meta,
+    icon: tesla,
     iconBg: "#050816",
     date: "Jan 2023 - Present",
     points: [
