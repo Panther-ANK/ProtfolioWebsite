@@ -123,7 +123,7 @@ const experiences = [
     date: "March 2020 - April 2021",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Collaborating with my teams including designers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
@@ -135,10 +135,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Jan 2021 - Feb 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Performed as a lead actor in a Project",
+      "Directed a smallsequence in the film.",
+      "Assisted crew members, director, producer in many technical aspect",
+      "Collabrated with Producers and Director in Production Management.",
     ],
   },
   {
@@ -148,10 +148,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Jan 2023 - Present",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Creating projects and maintaning them till the completion.",
+      "Collaborating with director, prodducers, DOPs to create high-quality products.",
+      "Writing stories and screenplays for projects.",
+      "Participating in film reviews and providing constructive feedback to other Film Makers.",
     ],
   },
 ];
